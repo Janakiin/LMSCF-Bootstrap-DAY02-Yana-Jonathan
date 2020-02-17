@@ -1,0 +1,14 @@
+.bg
+{
+	background-image: url("img/webb.png")
+}
+
+.textbg
+{
+	background-color: rgba(0,0,0,0.05)
+}
+
+.jumbg
+{
+	background-color: black
+}
